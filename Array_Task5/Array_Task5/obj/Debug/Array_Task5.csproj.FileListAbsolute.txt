@@ -1,0 +1,8 @@
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\obj\Debug\Array_Task5.csproj.AssemblyReference.cache
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\obj\Debug\Array_Task5.csproj.SuggestedBindingRedirects.cache
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\obj\Debug\Array_Task5.csproj.CoreCompileInputs.cache
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\bin\Debug\Array_Task5.exe.config
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\bin\Debug\Array_Task5.exe
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\bin\Debug\Array_Task5.pdb
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\obj\Debug\Array_Task5.exe
+D:\C#\ДЗ2(массивы)\Array_Task5\Array_Task5\Array_Task5\obj\Debug\Array_Task5.pdb
